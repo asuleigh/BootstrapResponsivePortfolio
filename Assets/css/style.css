@@ -217,7 +217,7 @@ input[type=submit]:hover {
   border-top: 8px;
   border-style: solid;
   border-color: #4aaaa5;
-  height: 70px;
+  height: 35px;
   flex-shrink: 0;
   text-align: center;
 }

@@ -1,7 +1,7 @@
 # portfolio
-Amanda Surber's Portfolio README
+Amanda Surber's Responsive Portfolio README
 
-ABSTRACT: This is a personal portfolio website. I have created this site in hopes that I will be able to continuously use it to improve my skills and for a place to showcase my public profile and work. (Aside: The current version is created to visually reflect the current assignment. There are more styles that I have coded that I will reintegrate in the future)
+ABSTRACT: This is a personal portfolio website created using Bootstrap. I have created this site in hopes that I will be able to continuously use it to improve my skills and for a place to showcase my public profile and work. (Aside: The current version is created to reflect the current assignment.)
 
 Table of Contents:
 
@@ -20,12 +20,13 @@ i: INSTALLATION
 -Clone or download style.css to the "css" folder and and images available to the "images" folder
 
 ii: USAGE
--Layout is as it appears. Links in Header work and so does the Submit button. Currently links are not set up for Portfolio.html (as I have nothing to post yet) and messages will not send yet. Will be added in coming updates.
+-Layout is as it appears. Links in Header work and so does the Submit button. Currently links are not set up for Portfolio.html (will be finishing set up within the next day) and messages will not redirect, though you can interact with the box. More will be added/finished in coming updates.
 
 iii: CREDITS
 -https://meyerweb.com/eric/tools/css/reset/
 -https://www.toptal.com/designers/subtlepatterns/
 -https://w3schools.com
+-https://getbootstrap.com/
 
 
 iv: LICENSE

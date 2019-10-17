@@ -193,7 +193,6 @@ input[type=submit]:hover {
 .gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(3, 6vw);
   grid-gap: 100px;
 }
 

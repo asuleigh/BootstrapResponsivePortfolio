@@ -1,7 +1,11 @@
-# portfolio
+# Bootstrap Responsive Portfolio
 Amanda Surber's Responsive Portfolio README
 
-ABSTRACT: This is a personal portfolio website created using Bootstrap. I have created this site in hopes that I will be able to continuously use it to improve my skills and for a place to showcase my public profile and work. (Aside: The current version is created to reflect the current assignment.)
+LINK:
+
+LINKS TO SCREENSHOTS:
+
+ABSTRACT: This is a personal portfolio website created using Bootstrap. I have created this site in hopes to improve my skills when styling with Bootstrap and for a place to showcase my public profile and work. (Aside: The current version is created to reflect the Bootstrap: Responsive Portfolio assignment.)
 
 Table of Contents:
 

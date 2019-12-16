@@ -2,8 +2,13 @@
 Amanda Surber's Responsive Portfolio README
 
 LINK:
+https://asuleigh.github.io/BootstrapResponsivePortfolio/
 
 LINKS TO SCREENSHOTS:
+-https://github.com/asuleigh/BootstrapResponsivePortfolio/blob/master/Assets/images/indexScreenshot.png
+-https://github.com/asuleigh/BootstrapResponsivePortfolio/blob/master/Assets/images/portfolioScreenshot.png
+-https://github.com/asuleigh/BootstrapResponsivePortfolio/blob/master/Assets/images/contactScreenshot.png
+
 
 ABSTRACT: This is a personal portfolio website created using Bootstrap. I have created this site in hopes to improve my skills when styling with Bootstrap and for a place to showcase my public profile and work. (Aside: The current version is created to reflect the Bootstrap: Responsive Portfolio assignment.)
 
@@ -17,14 +22,14 @@ iv: License
 i: INSTALLATION
 -In order to clone or download website for functionality on local drives, be sure to install files to proper locations.
 
--index.html, portfolio.html, and contact.html should be located in the source folder. The source folder should also contain an "Assets" folder.
+-index.html, portfolio.html, and contact.html should be located in the source folder. The source folder should also contain an "assets" folder.
 
--Inside of the "Assets" folder, make sure there is a "css" and an "images" folder
+-Inside of the "assets" folder, make sure there is an "images" folder. The CSS folder is unecessary at this time.
 
--Clone or download style.css to the "css" folder and and images available to the "images" folder
+-Clone or download images available to the "images" folder
 
 ii: USAGE
--Layout is as it appears. Links in Header work and so does the Submit button. Currently links are not set up for Portfolio.html (will be finishing set up within the next day) and messages will not redirect, though you can interact with the box. More will be added/finished in coming updates.
+-Layout is as it appears. The index page contains my About Me, the portfolio page contains links to past work, and the contact page gives users a form to contact me. Links in Header work and so does the Submit button. Currently messages will not redirect, though you can interact with the box. More will be added/finished in coming updates.
 
 iii: CREDITS
 -https://meyerweb.com/eric/tools/css/reset/

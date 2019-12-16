@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
-#masthead {
+#masterheading {
   position: fixed;
   z-index: 99;
   width: 100%;
@@ -76,7 +76,7 @@ nav a:first-child {
 .heading {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #5D0E5E;
   padding-bottom: 10px;
   font-size: 30px;
   line-height: 49px;
@@ -131,7 +131,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #4aaaa5;
+  background-color: #5D0E5E;
   color: white;
   border: none;
   border-radius: 4px;
@@ -141,7 +141,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: teal;
+  background-color: #5D0E5E;
 }
 
 .container {
@@ -179,7 +179,7 @@ input[type=submit]:hover {
   bottom: 30px;
   width: 150px;
   height: 35px;
-  background-color: #4aaaa5;
+  background-color: #5D0E5E;
   color: white;
   padding-left: 10px;
   padding-right: 10px;
